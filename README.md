@@ -9,3 +9,6 @@ Notebook per la visualizzazione e l'analisi dei dati messi a disposizione dalla 
 Ogni suggerimento è ben accetto.
 
 Questa repo (e solo questa) è completamente libera e chiunque può utilizzarla. L'unica condizione è l'attribuzione tramite inserimento del link della repo originaria.
+
+# LICENSE!
+https://commonsclause.com/
